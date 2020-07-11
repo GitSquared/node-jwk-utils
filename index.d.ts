@@ -1,4 +1,4 @@
-declare module 'jwk' {
+declare module 'jwk-utils' {
 	export type KeyType = 'EC' | 'RSA' | 'oct'
 	export type KeyOperation = 'sign' | 'verify' | 'encrypt' | 'decrypt' | 'wrapKey' | 'unwrapKey' | 'deriveKey' | 'deriveBits'
 	export type KeyIntendedUsage = 'sig' | 'enc'
