@@ -1,0 +1,26 @@
+{
+  "name": "jwk",
+  "version": "0.1.0",
+  "description": "A Node.js library for working with the JSON Web Key format (RFC #7517).",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitSquared/jwk.git"
+  },
+  "keywords": [
+    "jwk",
+    "crypto",
+    "node",
+    "json"
+  ],
+  "author": "Gabriel SAILLARD <gabriel@saillard.dev> (https://gaby.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GitSquared/jwk/issues"
+  },
+  "homepage": "https://github.com/GitSquared/jwk#readme"
+}
